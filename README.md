@@ -27,7 +27,7 @@
 
 - The results of this analysis will help PH how to proceed to fill will be vacant positions based on title and department.
 
-- The upcoming retirements for each title is summrized in the teable bellow:
+- The upcoming retirements for each title is summrized in the table bellow:
 	
 <table border="1" class="dataframe">
   <thead>
@@ -77,7 +77,7 @@
 </table>
 
 ## Summary:
-- From the result of the first two analyses, we found that there will be **more than 40,000** employees ready to retire in the near future, while there are just a little over **1,500** who are eligible for the mentorship program.
+- From the results of the first two analyses, we found that there will be **more than 40,000** employees ready to retire in the near future, while there are just a little over **1,500** who are eligible for the mentorship program.
 
 - The table bellow summarises the count for both retiring and mentors by department. 
 
@@ -162,4 +162,4 @@
 
 - The summary table clearly shows the huge gap between the number of expected retirements and the number of employees who qualify for the mentorship program.
 
-- In every department, there are more than 20 employees ready to retire for evey qualifying mentor. The **rmc-ratio** column shows the approximate retiring-to-mentor ratio. In Finance department, for instance there will be more than 32 retirements for every mentor. 
+- In every department, there are _more than 20 employees ready to retire for evey qualifying mentor_. The **rmc-ratio** column shows the approximate retiring-to-mentor ratio. In Finance department, for instance there will be more than 32 retirements for every mentor. 
